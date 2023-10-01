@@ -23,6 +23,10 @@
   </div>
 
   <div>
+    new testing changes
+  </div>
+
+  <div>
     <h2 class="mb-4 text-xl font-semibold">Reviews</h2>
     <ul>
       @forelse ($book->reviews as $review)
